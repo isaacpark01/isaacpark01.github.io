@@ -20,8 +20,8 @@ tags: [Windows , DUO, MFA]
  ![[Hada_group_policies2.png]]
 	- Listed features: User location, 2FA, Update app, no access from tampered devices, Android particular have to have Full-Disk Encryption, Screen Lock is mandatory, Allowed only mostly IOS, OS X, Windows, Linux, Chrome OS. I denied windows phone and blackberries due to the security Risk. Have deny blocker for outdated phones. 
 
-![[Hada_prompt1.png]]
+![img-description](Hada_prompt1.png)
 
-![[Hada_group_polices.png]]
+![img-description](Hada_group_polices.png)
 
-![[Hada_prompt_group_users.png]]
+!![img-description](Hada_prompt_group_users.png)
