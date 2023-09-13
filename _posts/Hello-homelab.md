@@ -1,8 +1,8 @@
 ---
 title: My first time seetting up Documentaiton for DUO
 date : 9/12/2023 12:00:00 -500
-Categories: [homelab, MFA]
-tags: [Windows , DUO, MFA]
+Categories: [homelab, mfa]
+tags: [Windows , duo, mfa]
 ---
 
 
