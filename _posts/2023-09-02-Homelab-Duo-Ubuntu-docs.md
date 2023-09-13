@@ -2,7 +2,7 @@
 title: Homelab Duo Ubuntu docs
 date: 2023-09-02 12:00:00 +0000
 categories: [homelab,Ubuntu, mfa]
-tags: [duo,Ubuntu, mfa]
+tags: [duo,ubuntu, mfa]
 ---
 # Welcome to DUO Ubuntu doc!
 # 🧾 Description
