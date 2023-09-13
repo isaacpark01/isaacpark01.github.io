@@ -1,11 +1,11 @@
 ---
 title: Homelab Duo docs
-date: 2023-01-15 12:00:00 +0000
+date: 2023-09-01 12:00:00 +0000
 categories: [homelab, mfa]
 tags: [duo, mfa]
 ---
 
-# Welcome to my DUO Documents
+# Welcome to my DUO Documents part 1 
 # 🧾 Description
 - The main focus of this prompt will be to create two users, and apply policies to them through the use of DUO. 
 
