@@ -1,5 +1,5 @@
 ---
-title: Homelab Duo docs
+title: Homelab Duo docs-01
 date: 2023-09-01 12:00:00 +0000
 categories: [homelab, mfa]
 tags: [duo, mfa]
