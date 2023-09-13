@@ -24,4 +24,4 @@ tags: [Windows , duo, mfa]
 
 ![img-description](Hada_group_polices.png)
 
-!![img-description](Hada_prompt_group_users.png)
+![img-description](Hada_prompt_group_users.png)
