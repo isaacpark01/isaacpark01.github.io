@@ -62,7 +62,7 @@ OpenSSL development headers and libraries are required for login_duo
 type in your keys like into designated spot like integration, secret, and api host name
 I was getting sshd_config, going to install SSH so I can see if that works out with it 
 
-![hada_error_notfixed.png](../images/photos/hada_error_notfixed.png)
+![hada_error_notfixed.png](/images/photos/hada_error_notfixed.png)
 
 I used Google, that i would have to use SSH(secure shell ) 
 TIME to install SSH
