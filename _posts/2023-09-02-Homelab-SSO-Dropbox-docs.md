@@ -13,10 +13,7 @@ tags: [duo,sso, jumpcloud]
 
 ## 🌐 Action to perform 
 1. Get a JumpCloud account and do it with
-![hada_prompt_4_azure_activedirectory 1.png](/images/photos/hada_prompt_4_azure_activedirectory1.png)
 
-
-![hada_prompt_4_azure_configuresp.png](/images/photos/hada_prompt_4_azure_configuresp.png)
 
 2. I decided to do Dropbox instead for a instant and cheaper way of doing this. 
 #DROPBOX
