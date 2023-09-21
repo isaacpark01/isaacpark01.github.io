@@ -1,6 +1,6 @@
 ---
 title: What I learned today
-date: 2023-09-16 12:00:00 +0000
+date: 2023-09-19 12:00:00 +0000
 categories: [CCNA, Goal, learning]
 tags: [ccna, learning]
 ---
