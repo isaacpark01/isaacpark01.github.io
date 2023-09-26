@@ -27,7 +27,7 @@ tags: [homelab, azure]
 
 ![Time.png](/images/photos/Azurelab/Time.png)
 
-![connect.png](../images/photos/Azurelab/connect.png)
+![connect.png](/images/photos/Azurelab/connect.png)
 
 ![timepart2.png](/images/photos/Azurelab/timepart2.png)
 
